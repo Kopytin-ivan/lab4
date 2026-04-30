@@ -1,0 +1,16 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+scipy
+librosa
+soundfile
+openpyxl
+jupyter
+notebook
+ipykernel
+joblib
+streamlit
+plotly
+python-pptx
+python-docx
